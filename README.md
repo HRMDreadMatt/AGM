@@ -6,6 +6,4 @@ Need some official sounding words for a made up Acronym - We got you covered.
 
 ***
 
-TODO: 
-- Increase # of letters and add more words
-- UI
+v1 is a console app, v2 will be a web ui (coming soon!)
